@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Golang and React.js**
 
+- 💀 I’m currently working on: Maintaining Repositories & Studying
+
 - 🫂 I’m looking to collaborate on **frontend development**
 
 - 💬 Ask me about **HTML, CSS ,Javascript and C++**
