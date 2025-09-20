@@ -10,7 +10,6 @@ Daily stack: **Go** + **MERN** | Obsessed with **performance** and **clean archi
 
 GitHub: [github.com/Njoxpy](https://github.com/Njoxpy)  
 
----
 
 ## Core Skills  
 - **Languages:** Go, TypeScript/JavaScript, SQL, Bash  
@@ -18,8 +17,6 @@ GitHub: [github.com/Njoxpy](https://github.com/Njoxpy)
 - **APIs:** REST/GraphQL, Auth (OAuth2/JWT), rate limiting  
 - **Data:** schema design, indexing, migrations  
 - **Ops:** logs/metrics/traces, health probes, SLOs  
-
----
 
 ## Projects  
 
@@ -47,8 +44,6 @@ Accessibility tools for visually/hearing-impaired learners.
 *Impact: reached 200+ Tanzanian students in pilots.*  
 [Site](https://iren.porto.africa/)  
 
----
-
 ## Open Source Highlights  
 - [Learning Git and GitHub](https://github.com/Njoxpy/hello-world-Learning-Git-and-Github) · [Live](https://njoxpy.github.io/hello-world-Learning-Git-and-Github/)  
 - [React Error Explained](https://github.com/Njoxpy/React-Error-Explained) · [Live](https://njoxpy.github.io/React-Error-Explained/)  
@@ -56,20 +51,17 @@ Accessibility tools for visually/hearing-impaired learners.
 - [Kali Linux Starter Pack (Swahili)](https://github.com/Njoxpy/Kali-Linux-Starter-Pack-Swahili)  
 - [Python Learning Lab (Swahili)](https://github.com/Njoxpy/Python-Learning-Lab)  
 
----
 
 ## Research  
 - **NJOX A–Z Approach (2025):** clean/modular JS codebases → less debugging. [Preprint](https://docs.google.com/document/d/11kDY1J5GWZp_YBwzP3qWe-ow07a279ulI-FPPBD_Nqg/edit?usp=sharing)  
 - **Tomato Disease Detection (2025):** vision-based early detection for farmers. [Preprint](https://docs.google.com/document/d/1PacxGs9QUjHFTJpJ_U9kmBwoU30xlNyCMIF5rTkjd3o/edit?usp=sharing)  
 
----
 
 ## How I Work  
 - **Clarity first:** specs, contracts, examples → code  
 - **DX matters:** clean repos, reproducible setups  
 - **Safety + speed:** CI, feature flags, small releases  
 
----
 
 ## Contact  
 - **Email:** [godblessnyagawa@gmail.com](mailto:godblessnyagawa@gmail.com)  
@@ -77,6 +69,5 @@ Accessibility tools for visually/hearing-impaired learners.
 - **Portfolio:** [njox.dev](https://www.njox.dev/)  
 - **Location:** Tanzania  
 
----
 
 *Last updated: 2025-09*  
