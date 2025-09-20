@@ -21,7 +21,7 @@ GitHub: [github.com/Njoxpy](https://github.com/Njoxpy)
 
 ---
 
-## Selected Projects  
+## Projects  
 
 ### Njox Keys — Node.js • MongoDB • React  
 University key-management system (RBAC, late returns, analytics).  
